@@ -1,0 +1,18 @@
+.visited:active{
+    color: yellow;
+}
+.hover:hover{
+    color: red;
+}
+.active:active{
+    color: blue;
+}
+.focus:focus{
+    color: crimson;
+}
+.only-child:only-child{
+    color: violet;
+}
+body{
+    background-color: mediumaquamarine;
+}
